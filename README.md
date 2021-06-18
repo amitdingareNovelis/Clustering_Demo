@@ -1,6 +1,6 @@
-# DOI Demo Notebook
+# Clustering_Demo
 
-Demo notebook with DOI data access and plotting.  Click on the Binder link
+Demo notebook for clustering.  Click on the Binder link
 below to see a live, interactive version.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caltechlibrary/doi-demo-notebook/master?filepath=tccon-plotting-API.ipynb)
